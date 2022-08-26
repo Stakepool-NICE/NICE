@@ -2,7 +2,7 @@
     "verification":"4ad9525a734cb802a8",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "https://github.com/Stakepool-NICE/NICE/NICE_logo.PNG",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/Stakepool-NICE/NICE/main/NICE_pool.PNG",
         "url_png_logo": "",
         "location": "Denmark",
         "social": {
